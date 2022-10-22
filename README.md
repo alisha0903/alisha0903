@@ -2,7 +2,7 @@
 <h2 align="center"> Hi 👋 My name is Alisha Raghav </h2>
 
 
-<h3 align="center"> Front-End Web Developer | CP Enthusiast </h3>
+<h3 align="center"> Front-End Web Developer || Member @Innogeeks|| Coding Enthusiast </h3>
 
 
 * 🌍  I'm based in India
