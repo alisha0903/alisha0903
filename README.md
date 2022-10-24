@@ -6,7 +6,7 @@
 
 
 * 🌍  I'm based in India
-* 🧠  I'm learning C++ | Networking | JavaScript
+* 🧠  I'm learning DSA | Networking | JavaScript
 
 ### Skills
 
