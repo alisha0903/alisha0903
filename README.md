@@ -6,7 +6,7 @@
 
 
 * 🌍  I'm based in India
-* 🧠  I'm learning DSA | Django
+* 🧠  I'm currently learning DSA | Django
 
 ### Skills
 
