@@ -30,6 +30,6 @@
 ### Stats
 
 <p align="center">
-<!--<img width="400px" src="https://github-readme-stats.vercel.app/api?username=alisha0903&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&hide_border=true&bg_color=0d1117&show_icons=true" alt="alisha0903's GitHub stats" />-->
+<img width="400px" src="https://github-readme-stats.vercel.app/api?username=alisha0903&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&hide_border=true&bg_color=0d1117&show_icons=true" alt="alisha0903's GitHub stats" />
 <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=alisha0903&stroke=ffffff&background=0d1117&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
