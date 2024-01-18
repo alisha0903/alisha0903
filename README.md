@@ -1,5 +1,5 @@
 
-<h2 align="center"> Hi 👋 My name is Alisha Raghav </h2>
+<h2 align="center"> Hi 👋 My name is Alisha Raghav  </h2>
 
 
 <h3 align="center"> Django Developer ||Core team @Innogeeks|| Coding Enthusiast </h3>
